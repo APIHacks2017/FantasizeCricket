@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.FantasizeCricket" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>FantasizeCricket</name>
+    <description>
+        A blank PhoneGap app.
+    </description>
+    <author email="catchsenthil.k@gmail.com" href="http://phonegap.com">
+        PhoneGap Team
+    </author>
+    <icon gap:platform="android" gap:qualifier="ldpi" src="res/icon/android/drawable-ldpi/tp_icon.png" />
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="permissions" value="none" />
+</widget>
